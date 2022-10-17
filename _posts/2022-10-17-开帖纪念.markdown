@@ -4,5 +4,6 @@ title:  "开始!"
 date:   2022-10-17 15:50:20 +0800
 categories: update
 ---
+![jekyll](imags/jekyll.jpeg)
 于2022年10月17日，开始github博客的记录，发此贴作为纪念！
 
